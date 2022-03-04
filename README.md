@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @reginagonzalezre , I'm a Mechatronics Engineer
+- 👀 I’m interested in Mechatronics, specifically in AI and robotics
+- ⚙️ I'm a proficient programmer of C++, ASM (assembly language), Matlab, HTML, Visual Basic, Arduino, Processing, LaTex and Python with approach to Machine Learning and Artificial Vision
+- 🌱 I’m currently improving my python skills, and looking forward to learn other languages
+- 💞️ I’m looking to collaborate on software analytics, development or AI projects
+- 📫 You can find me on https://www.linkedin.com/in/regina-gonzalez-ramirez/ or write me at regina.glez.priv@gmail.com
